@@ -1,0 +1,59 @@
+body{
+    background-color: #0F101C ;
+}
+
+h1{
+    text-align: center;
+    color: #881B80;
+}
+
+
+.numbers_block{
+    font-size: 50px;
+    display: inline-block;
+    border: 1px solid white;
+    width: 100px;
+    text-align: center;
+    
+}
+
+
+.number_block_wrapper{
+    width: 95%;
+    margin-left: 60px;
+    color: whitesmoke;
+
+}
+
+
+.card_players{
+    width: 15%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+    display: inline-block;
+    color: whitesmoke;
+    
+}
+
+.number_players{
+    display: inline-block ;
+    font-size: 30px;
+    border: 1px solid white;
+    width: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.button{
+    padding: 10px;
+    width: 6.5%;
+    background-color: #881B80;
+    color: whitesmoke;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 46.75%;
+}
